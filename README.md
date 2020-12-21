@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* Styles.css
-* Run the Code
+* [Styles](#Styles)
+* [Run the Code](#Run the Code)
 
 ## Instructions
 
