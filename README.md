@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Styles](#Styles)
-* [Run the Code](#Run the Code)
+* [Run the Code](#Running)
 
 ## Instructions
 
@@ -20,7 +20,7 @@ For specific, detailed instructions, look at the project instructions in the Uda
 Most of the code was taken from the code given by Udacity in Skelton.
 
 
-## Run the Code
+## Running
 
 
 To launch this website, simply clone the repo and open the index.html file in the browser.
